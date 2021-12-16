@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "onFocusChange",
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.coverOnSave": false,
+    "go.inferGopath": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.formatOnSave": true,
+
+    "go.goroot": "/usr/local/go",    
+    "go.gopath": "~/golang/go", 
+    "go.gocodeAutoBuild": true
+}
