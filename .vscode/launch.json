@@ -11,7 +11,7 @@
             "mode": "auto",
             "request": "launch",
             // "program": "${fileDirname}",
-            "program": "${workspaceFolder}/lesson24通过数组产生切片/main.go",
+            "program": "${workspaceFolder}/lesson29双向循环链表list/main.go",
             "env": {},
             "args": []
         }
