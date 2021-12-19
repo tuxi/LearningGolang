@@ -1,3 +1,4 @@
+
 {
     // 使用 IntelliSense 了解相关属性。 
     // 悬停以查看现有属性的描述。
@@ -5,11 +6,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "igoodful",
+            "name": "Launch",
             "type": "go",
+            "mode": "auto",
             "request": "launch",
-            "mode": "debug",
-            "remotePath": "",
+            // "program": "${fileDirname}",
+            "program": "${workspaceFolder}/lesson24通过数组产生切片/main.go",
             "env": {},
             "args": []
         }
