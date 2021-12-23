@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<peoples version="0.9">
+    <people id="888">
+        <name>yangxiaoyuan</name>
+        <address>北京市房山</address>
+    </people>
+    <people id="999">
+        <name>杨校园</name>
+        <address>北京市海淀区</address>
+    </people>
+</peoples>
